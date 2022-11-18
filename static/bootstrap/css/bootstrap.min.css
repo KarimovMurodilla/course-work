@@ -4048,14 +4048,14 @@ textarea.form-control-lg {
     align-items: center;
     justify-content: space-between;
     padding-top: .5rem;
-    padding-bottom: .5rem
+    padding-bottom: .5rem;
 }
 
 .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
     display: flex;
     flex-wrap: inherit;
     align-items: center;
-    justify-content: space-between
+    justify-content: space-between;
 }
 
 .navbar-brand {
@@ -4423,7 +4423,9 @@ textarea.form-control-lg {
     background-color: #fff;
     background-clip: border-box;
     border: 1px solid rgba(0, 0, 0, .125);
-    border-radius: .25rem
+    border-radius: .25rem;
+    margin: 0 auto;
+    float: none;
 }
 
 .card>hr {
@@ -7776,7 +7778,7 @@ textarea.form-control-lg {
 }
 
 .bg-dark {
-    background-color: #212529 !important
+    background-color: #373737 !important
 }
 
 .bg-body {
