@@ -4456,7 +4456,9 @@ textarea.form-control-lg {
 
 .card-body {
     flex: 1 1 auto;
-    padding: 1rem 1rem
+    padding: 1rem 1rem;
+    /* background-color: #000000BD; */
+    /* color: #fff; */
 }
 
 .card-title {
